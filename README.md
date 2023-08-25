@@ -5,6 +5,9 @@
 - [x] run model on input
 - [x] check that results are deterministic
 - [ ] examine generated C code
+    - [ ] find actual call to clang
+    - [ ] set breakpoint
+    - [ ] find a way to get the code in python directly
 - [ ] examine generated assembly
 - [ ] automate the introspection (parse AST?)
 
