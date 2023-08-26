@@ -10,7 +10,7 @@
       "request": "launch",
       "program": "test.py",
       "console": "integratedTerminal",
-      "env": { "CLANG": "1" },
+      "env": { "CLANG": "1", "NOOPT": "1" },
       "justMyCode": true
     }
   ]
